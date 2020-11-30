@@ -11,7 +11,7 @@
 
 ### Diagram
 
-![](./images/screenshot.png)
+![](README.assets/screenshot-1606725558364.PNG)
 
 
 
